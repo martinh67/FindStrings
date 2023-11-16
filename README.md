@@ -9,7 +9,10 @@ Write a program that reads in a file containing several lines of text and then p
 The program should do the following:
 
 a.	Prompt the user for the name of a text file (if the file does not exist, display an error message and re-prompt)
+
 b.	Read in a series of strings from the text file and store these in an array of strings, dynamically allocating memory for each element
+
 c.	Loop through the populated string array and find elements that end with the characters "ed"
+
 d.	Display on screen a list of only those strings that end with "ed"
 
