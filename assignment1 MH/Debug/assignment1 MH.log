@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\martin.hanna\source\repos\week6\assignment1 mh\assignment1 mh\source.c(111): warning C4013: 'malloc' undefined; assuming extern returning int
+  assignment1 MH.vcxproj -> C:\Users\martin.hanna\source\repos\Week6\assignment1 MH\Debug\assignment1 MH.exe
